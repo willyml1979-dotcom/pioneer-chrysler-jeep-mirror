@@ -1,6 +1,6 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-09-26T23:59:21",
+  "generated_at": "2026-10-08T14:43:50",
   "vehicle_count": 412,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 3500 SLT 6.7L Cummins Turbo Diesel RM Startin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2010 Dodge RAM 3500 ",
@@ -34,13 +36,16 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2011 RAM 5500 SLT 6.7L CUMMINS | 4X4 | DUALLYin Mission",
       "vin": "3D6WU7ELXBG566413",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SLT CUMMINS",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/171a53ab4bea.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2011-RAM-5500-id12585262.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2011-RAM-5500-id12585262.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +55,10 @@
       "odometer_km": 215790,
       "year": 2011,
       "make": "RAM",
-      "model": "5500 SLT 6.7L CUMMINS",
-      "condition": "used"
+      "model": "5500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2011 RAM 5500 ",
@@ -67,7 +74,9 @@
       "year": 2011,
       "make": "RAM",
       "model": "5500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2013 Volvo XC60 ",
@@ -80,12 +89,15 @@
       "year": 2013,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 7 Series 750LI XDRIVE LEATHER | BLUETOOTH | SUNROOFin Mission",
       "vin": "WBAYF8C5XED142182",
       "stock": "NUMBER",
+      "trim": "750LI XDRIVE LEATHER",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/438128893667.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2014-BMW-7_Series-id14195175.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2014-BMW-7_Series-id14195175.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -95,8 +107,10 @@
       "odometer_km": 167060,
       "year": 2014,
       "make": "BMW",
-      "model": "7 Series 750LI XDRIVE LEATHER",
-      "condition": "used"
+      "model": "7 Series",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 7 Series ",
@@ -111,7 +125,9 @@
       "year": 2014,
       "make": "BMW",
       "model": "7 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2014 Cadillac Ats ",
@@ -126,7 +142,9 @@
       "year": 2014,
       "make": "Cadillac",
       "model": "Ats",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2014 Cadillac Ats RWD LEATHER | SUNROOF | BLUETOOTHin Mission",
@@ -142,7 +160,9 @@
       "year": 2014,
       "make": "Cadillac",
       "model": "Ats RWD LEATHER",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2014 Cadillac Ats LUXURY AWDin Mission",
@@ -158,7 +178,9 @@
       "year": 2014,
       "make": "Cadillac",
       "model": "Ats LUXURY AWDin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2015 Dodge Challenger ",
@@ -173,7 +195,9 @@
       "year": 2015,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Escape ",
@@ -188,7 +212,9 @@
       "year": 2015,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Mustang ",
@@ -204,7 +230,9 @@
       "year": 2015,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2015 Kia Soul ",
@@ -219,12 +247,15 @@
       "year": 2015,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2015 Mercedes-Benz GLA-Class GLA 250in Mission",
       "vin": "WDCTG4GB5FJ068492",
       "stock": "NUMBER",
+      "trim": "Class GLA 250in Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/63826a521129.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2015-Mercedes_Benz-GLA_Class-id14286054.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2015-Mercedes_Benz-GLA_Class-id14286054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -234,8 +265,10 @@
       "odometer_km": 147844,
       "year": 2015,
       "make": "Mercedes-Benz",
-      "model": "GLA-Class GLA 250in Mission",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 3 Series ",
@@ -251,7 +284,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 GMC Terrain ",
@@ -267,7 +302,9 @@
       "year": 2016,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 Nash 22Hin Mission",
@@ -282,7 +319,9 @@
       "year": 2016,
       "make": "Nash",
       "model": "22Hin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 Nash 22H ",
@@ -297,13 +336,16 @@
       "year": 2016,
       "make": "Nash",
       "model": "22H",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Versa Note ",
       "vin": "3N1CE2CP7GL389822",
       "stock": 13751293,
       "color": "Dark grey",
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6df279a73b9b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2016-Nissan-Versa_Note.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2016-Nissan-Versa_Note.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -312,8 +354,10 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "Nissan",
-      "model": "Versa Note",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2016 Volvo XC90 ",
@@ -328,7 +372,9 @@
       "year": 2016,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Audi RS 7 ",
@@ -344,12 +390,15 @@
       "year": 2017,
       "make": "Audi",
       "model": "RS 7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Sonic LT - Bluetooth - $81 B/Win Mission",
       "vin": "1G1JD6SB5H4163654",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/ba09fe70490e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2017-Chevrolet-Sonic-id14384192.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2017-Chevrolet-Sonic-id14384192.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,8 +408,10 @@
       "odometer_km": 104667,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Sonic LT - Bluetooth - $81 B/Win Mission",
-      "condition": "used"
+      "model": "Sonic",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Sonic ",
@@ -375,12 +426,15 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Sonic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Charger SXT - Bluetooth - Heated Seats - $114 B/Win Mission",
       "vin": "2C3CDXJG4HH624014",
       "stock": "NUMBER",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4098e82f5a0e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2017-Dodge-Charger-id14313337.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2017-Dodge-Charger-id14313337.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -390,8 +444,10 @@
       "odometer_km": 105185,
       "year": 2017,
       "make": "Dodge",
-      "model": "Charger SXT - Bluetooth - Heated Seats - $114 B/Win Mission",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Charger ",
@@ -406,7 +462,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Infiniti Q50 ",
@@ -421,12 +479,15 @@
       "year": 2017,
       "make": "Infiniti",
       "model": "Q50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLA 250 4MATIC - Leather Seats - $121 B/Win Mission",
       "vin": "WDCTG4GBXHJ305805",
       "stock": "NUMBER",
+      "trim": "250 4MATIC",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/5e8d1e32dc07.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2017-Mercedes_Benz-GLA-id14332824.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2017-Mercedes_Benz-GLA-id14332824.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -436,8 +497,10 @@
       "odometer_km": 104062,
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC - Leather Seats - $121 B/Win Mission",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Murano ",
@@ -453,7 +516,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Pathfinder ",
@@ -466,7 +531,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -481,7 +548,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Audi R8 ",
@@ -497,7 +566,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "R8",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 BMW M4 ",
@@ -513,12 +584,15 @@
       "year": 2018,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 xDrive30i AWD | LEATHER | HEATEDin Mission",
       "vin": "5UXTR9C54JLC83180",
       "stock": "NUMBER",
+      "trim": "xDrive30i",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/23028fface5c.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-BMW-X3-id12898074.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-BMW-X3-id12898074.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,8 +602,10 @@
       "odometer_km": 137557,
       "year": 2018,
       "make": "BMW",
-      "model": "X3 xDrive30i AWD",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 ",
@@ -544,7 +620,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X6 ",
@@ -560,12 +638,15 @@
       "year": 2018,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Camaro LT V6 | CONVERTIBLE | CARPLAYin Mission",
       "vin": "1G1FB3DS3J0125974",
       "stock": "NUMBER",
+      "trim": "LT V6",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9ce0e9f1f57e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Chevrolet-Camaro-id14204389.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Chevrolet-Camaro-id14204389.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -575,8 +656,10 @@
       "odometer_km": 100102,
       "year": 2018,
       "make": "Chevrolet",
-      "model": "Camaro LT V6",
-      "condition": "used"
+      "model": "Camaro",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Camaro ",
@@ -591,12 +674,15 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Camaro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Equinox Premier - Leather Seats - $146 B/Win Mission",
       "vin": "2GNAXWEX8J6335922",
       "stock": "NUMBER",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/1efaf643c239.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Chevrolet-Equinox-id14332821.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Chevrolet-Equinox-id14332821.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -606,8 +692,10 @@
       "odometer_km": 48407,
       "year": 2018,
       "make": "Chevrolet",
-      "model": "Equinox Premier - Leather Seats - $146 B/Win Mission",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Equinox ",
@@ -622,7 +710,9 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic ",
@@ -637,7 +727,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic Sedan ",
@@ -653,12 +745,15 @@
       "year": 2018,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Elantra GL Auto - Heated Seatsin Mission",
       "vin": "KMHD84LF7JU621548",
       "stock": "NUMBER",
+      "trim": "GL Auto",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/56aca9890c29.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Hyundai-Elantra-id14286052.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Hyundai-Elantra-id14286052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -666,8 +761,10 @@
       "odometer_km": 144911,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Elantra GL Auto - Heated Seatsin Mission",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Elantra ",
@@ -680,13 +777,16 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Grand Cherokee Limited Uconnect 4 with 7?inch display!in Mission",
       "vin": "1C4RJFBG9JC243355",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited Uconnect 4 with 7?inch display",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/bfc6ea36a191.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Jeep-Grand_Cherokee-id13061405.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Jeep-Grand_Cherokee-id13061405.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -696,8 +796,10 @@
       "odometer_km": 116169,
       "year": 2018,
       "make": "Jeep",
-      "model": "Grand Cherokee Limited Uconnect 4 with 7?inch display!in Mission",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Grand Cherokee ",
@@ -713,7 +815,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Forte ",
@@ -729,12 +833,15 @@
       "year": 2018,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage LX AWD - Heated Seats - $120 B/Win Mission",
       "vin": "KNDPMCAC4J7304096",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0a9112f415d9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Kia-Sportage-id14332823.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Kia-Sportage-id14332823.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -744,8 +851,10 @@
       "odometer_km": 63805,
       "year": 2018,
       "make": "Kia",
-      "model": "Sportage LX AWD - Heated Seats - $120 B/Win Mission",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage ",
@@ -760,7 +869,9 @@
       "year": 2018,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Maserati Granturismo ",
@@ -776,12 +887,15 @@
       "year": 2018,
       "make": "Maserati",
       "model": "Granturismo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz GLA 250 4MATIC SUV LEATHER | NAV | CARPLAYin Mission",
       "vin": "WDCTG4GB7JJ499814",
       "stock": "NUMBER",
+      "trim": "250 4MATIC SUV LEATHER",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/323298b6a023.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2018-Mercedes_Benz-GLA-id13961394.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2018-Mercedes_Benz-GLA-id13961394.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -791,8 +905,10 @@
       "odometer_km": 140550,
       "year": 2018,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUV LEATHER",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Corolla ",
@@ -808,7 +924,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 BMW X1 ",
@@ -824,12 +942,15 @@
       "year": 2019,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Blazer L LEATHER | SUNROOF | AWDin Mission",
       "vin": "3GNKBCRSXKS694840",
       "stock": "NUMBER",
+      "trim": "L LEATHER",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/78b07471ae9f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2019-Chevrolet-Blazer-id14195173.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2019-Chevrolet-Blazer-id14195173.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -839,8 +960,10 @@
       "odometer_km": 70870,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Blazer L LEATHER",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Blazer ",
@@ -855,7 +978,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -870,7 +995,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Ranger ",
@@ -886,7 +1013,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Infiniti QX50 ",
@@ -902,7 +1031,9 @@
       "year": 2019,
       "make": "Infiniti",
       "model": "QX50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Jaguar F-TYPE ",
@@ -918,12 +1049,15 @@
       "year": 2019,
       "make": "Jaguar",
       "model": "F-TYPE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee Limited - Leather Seats - Heated Seats - $141 B/Win Mission",
       "vin": "1C4PJMDX6KD120634",
       "stock": "NUMBER",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/3833321c30da.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2019-Jeep-Cherokee-id14286056.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2019-Jeep-Cherokee-id14286056.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -931,8 +1065,10 @@
       "odometer_km": 93888,
       "year": 2019,
       "make": "Jeep",
-      "model": "Cherokee Limited - Leather Seats - Heated Seats - $141 B/Win Mission",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -945,13 +1081,16 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass Limited - Navigation - Leather Seatsin Mission",
       "vin": "3C4NJDCB0KT752360",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/db9e49ee34d2.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2019-Jeep-Compass-id14358357.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2019-Jeep-Compass-id14358357.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -961,8 +1100,10 @@
       "odometer_km": 169669,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass Limited - Navigation - Leather Seatsin Mission",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -978,7 +1119,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Land Rover Land Rover Discovery Sport HSE Luxury AWD   $168 B/Win Mission",
@@ -994,7 +1137,9 @@
       "year": 2019,
       "make": "Land",
       "model": "Rover Land Rover Discovery Sport HSE Luxury AWD   $168 B/Win Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 ",
@@ -1009,7 +1154,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -1024,13 +1171,16 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Camry LE LEATHER | SUNROOFin Mission",
       "vin": "4T1B11HK8KU750349",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "LE LEATHER",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7841dd7e6b1c.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2019-Toyota-Camry-id14349322.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2019-Toyota-Camry-id14349322.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1040,8 +1190,10 @@
       "odometer_km": 116580,
       "year": 2019,
       "make": "Toyota",
-      "model": "Camry LE LEATHER",
-      "condition": "used"
+      "model": "Camry",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Camry ",
@@ -1057,7 +1209,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -1072,12 +1226,15 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo XC40 T5 AWD Momentum - Heated Seats - $162 B/Win Mission",
       "vin": "YV4162XZ8K2015045",
       "stock": "NUMBER",
+      "trim": "T5 Momentum",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/3c4f81abd31b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2019-Volvo-XC40-id14332825.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2019-Volvo-XC40-id14332825.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1087,8 +1244,10 @@
       "odometer_km": 54164,
       "year": 2019,
       "make": "Volvo",
-      "model": "XC40 T5 AWD Momentum - Heated Seats - $162 B/Win Mission",
-      "condition": "used"
+      "model": "XC40",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo XC40 ",
@@ -1103,7 +1262,9 @@
       "year": 2019,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Audi Q3 ",
@@ -1119,7 +1280,9 @@
       "year": 2020,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Grand Caravan ",
@@ -1134,7 +1297,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape ",
@@ -1149,7 +1314,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra ",
@@ -1164,7 +1331,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Tucson ",
@@ -1180,7 +1349,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Forte ",
@@ -1196,7 +1367,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Forte5 ",
@@ -1212,7 +1385,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Forte5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage ",
@@ -1226,7 +1401,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Land Rover Land Rover Discovery Sport SE AWD PANO ROOF | AWD | 300HPin Mission",
@@ -1242,7 +1419,9 @@
       "year": 2020,
       "make": "Land",
       "model": "Rover Land Rover Discovery Sport SE AWD PANO ROOF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Navigator ",
@@ -1257,7 +1436,9 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Navigator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Porsche Panamera ",
@@ -1273,7 +1454,9 @@
       "year": 2020,
       "make": "Porsche",
       "model": "Panamera",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Porsche Taycan ",
@@ -1289,7 +1472,9 @@
       "year": 2020,
       "make": "Porsche",
       "model": "Taycan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 3500 ",
@@ -1302,7 +1487,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2020 Tesla Model 3 ",
@@ -1318,7 +1505,9 @@
       "year": 2020,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Audi RS Q8 ",
@@ -1334,7 +1523,9 @@
       "year": 2021,
       "make": "Audi",
       "model": "RS Q8",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Sierra 3500 ",
@@ -1347,7 +1538,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Civic ",
@@ -1362,7 +1555,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Civic Sedan ",
@@ -1378,7 +1573,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe ",
@@ -1394,12 +1591,15 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Venue Preferred IVT - Heated Seats - $128 B/Win Mission",
       "vin": "KMHRC8A32MU094818",
       "stock": "NUMBER",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/233d17e4bc5f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2021-Hyundai-Venue-id14286049.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2021-Hyundai-Venue-id14286049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1409,8 +1609,10 @@
       "odometer_km": 86079,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Venue Preferred IVT - Heated Seats - $128 B/Win Mission",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Venue ",
@@ -1425,7 +1627,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee L ",
@@ -1441,7 +1645,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Forte ",
@@ -1457,7 +1663,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Seltos ",
@@ -1473,7 +1681,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Seltos ",
@@ -1489,7 +1699,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Lexus NX ",
@@ -1505,7 +1717,9 @@
       "year": 2021,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Qashqai ",
@@ -1521,7 +1735,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -1537,7 +1753,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -1553,12 +1771,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVDG1ME523216",
       "stock": 12821466,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/597432e0d31e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2021-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2021-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1567,8 +1788,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 RAM Promaster City ",
@@ -1584,12 +1807,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "Promaster City",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVDG1ME523216",
       "stock": 12821466,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/597432e0d31e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2021-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2021-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1598,8 +1824,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model 3 ",
@@ -1615,7 +1843,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model Y ",
@@ -1631,7 +1861,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 ",
@@ -1647,7 +1879,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Audi SQ5 Sportback ",
@@ -1663,7 +1897,9 @@
       "year": 2022,
       "make": "Audi",
       "model": "SQ5 Sportback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X2 ",
@@ -1679,7 +1915,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Malibu ",
@@ -1694,7 +1932,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Spark ",
@@ -1709,7 +1949,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler 300 ",
@@ -1725,7 +1967,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "300",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Forester Surveyor ",
@@ -1740,7 +1984,9 @@
       "year": 2022,
       "make": "Forester",
       "model": "Surveyor",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan ",
@@ -1755,7 +2001,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Odyssey ",
@@ -1770,7 +2018,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra ",
@@ -1785,13 +2035,16 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYD64N8735252",
       "stock": 10994304,
       "color": "White",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/5cacf34c701b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2022-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2022-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1800,8 +2053,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee L ",
@@ -1817,7 +2072,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Wagoneer ",
@@ -1832,7 +2089,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX ",
@@ -1848,7 +2107,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -1861,7 +2122,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -1877,7 +2140,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -1893,7 +2158,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Golf R ",
@@ -1908,12 +2175,15 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Express Cargo Van ",
       "vin": "1GCWGAFP7P1128479",
       "stock": 13217020,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/65242c4b7841.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2023-Chevrolet-Express_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2023-Chevrolet-Express_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1922,8 +2192,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Express Cargo Van",
-      "condition": "used"
+      "model": "Express",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 3500HD ",
@@ -1938,7 +2210,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Charger ",
@@ -1954,7 +2228,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Durango ",
@@ -1969,7 +2245,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1984,7 +2262,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Mustang Mach-E ",
@@ -1999,7 +2279,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -2015,12 +2297,15 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYC6XP8903688",
       "stock": 12103904,
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/5eca6c9f133b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2029,27 +2314,33 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Wagoneer L ",
       "vin": "1C4SJSFP5PS503298",
       "stock": 12306544,
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/de630a78278d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T22:10:01",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Wagoneer L",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler 4xe ",
       "vin": "1C4JJXR68PW512887",
       "stock": 14326514,
       "color": "White",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6bb5919ef1b9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2023-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2058,13 +2349,16 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte EX Premium - Sunroof - Android Autoin Mission",
       "vin": "3KPF34AD6PE558253",
       "stock": "NUMBER",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/175fff9ab0f0.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2023-Kia-Forte-id14353316.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2023-Kia-Forte-id14353316.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,8 +2368,10 @@
       "odometer_km": 36066,
       "year": 2023,
       "make": "Kia",
-      "model": "Forte EX Premium - Sunroof - Android Autoin Mission",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -2090,7 +2386,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 MINI Countryman ",
@@ -2105,7 +2403,9 @@
       "year": 2023,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Maserati Grecale ",
@@ -2121,7 +2421,9 @@
       "year": 2023,
       "make": "Maserati",
       "model": "Grecale",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi RVR ",
@@ -2137,7 +2439,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Pathfinder ",
@@ -2152,7 +2456,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Porsche Macan ",
@@ -2168,7 +2474,9 @@
       "year": 2023,
       "make": "Porsche",
       "model": "Macan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Porsche Macan ",
@@ -2184,7 +2492,9 @@
       "year": 2023,
       "make": "Porsche",
       "model": "Macan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -2200,7 +2510,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -2215,7 +2527,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 2500 ",
@@ -2231,7 +2545,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -2247,7 +2563,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -2263,7 +2581,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -2278,7 +2598,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -2294,7 +2616,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -2310,7 +2634,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Corolla ",
@@ -2326,7 +2652,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota GR Supra ",
@@ -2341,7 +2669,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "GR Supra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -2357,7 +2687,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -2372,7 +2704,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Audi Q3 ",
@@ -2388,7 +2722,9 @@
       "year": 2024,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envista ",
@@ -2403,7 +2739,9 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Blazer EV ",
@@ -2418,12 +2756,15 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Blazer EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Malibu 1LT - Aluminum Wheels - Android Autoin Mission",
       "vin": "1G1ZD5STXRF238134",
       "stock": "NUMBER",
+      "trim": "1LT",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/446fb409ada5.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Chevrolet-Malibu-id14286047.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Chevrolet-Malibu-id14286047.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2431,8 +2772,10 @@
       "odometer_km": 40044,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Malibu 1LT - Aluminum Wheels - Android Autoin Mission",
-      "condition": "used"
+      "model": "Malibu",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Malibu ",
@@ -2445,13 +2788,16 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK6RR203783",
       "stock": 11724576,
       "color": "White",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4ffaf85f2d21.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2460,8 +2806,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -2477,13 +2825,16 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK6RR203783",
       "stock": 11724576,
       "color": "White",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/4ffaf85f2d21.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2492,8 +2843,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -2509,7 +2862,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -2524,7 +2879,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -2539,7 +2896,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-350 ",
@@ -2554,12 +2913,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Hummer EV SUV 3X - Fast Chargingin Mission",
       "vin": "1GKB0RDC5RU107072",
       "stock": "NUMBER",
+      "trim": "SUV 3X",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/d9c202254a1b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-GMC-Hummer_EV_SUV-id14397433.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-GMC-Hummer_EV_SUV-id14397433.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2567,8 +2929,10 @@
       "odometer_km": 43362,
       "year": 2024,
       "make": "GMC",
-      "model": "Hummer EV SUV 3X - Fast Chargingin Mission",
-      "condition": "used"
+      "model": "Hummer EV",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Hummer EV SUV ",
@@ -2581,7 +2945,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Hummer EV SUV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra ",
@@ -2597,7 +2963,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona ",
@@ -2612,7 +2980,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jaguar I-PACE ",
@@ -2627,7 +2997,9 @@
       "year": 2024,
       "make": "Jaguar",
       "model": "I-PACE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -2643,7 +3015,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee L ",
@@ -2659,7 +3033,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -2675,13 +3051,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe ",
       "vin": "1C4RJXP61RW280626",
       "stock": 14214945,
       "color": "Blue",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/bc4374ed2f65.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2690,8 +3069,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee L ",
@@ -2707,7 +3088,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -2723,7 +3106,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos ",
@@ -2738,7 +3123,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -2753,7 +3140,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Telluride ",
@@ -2768,7 +3157,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX ",
@@ -2784,7 +3175,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 ",
@@ -2800,7 +3193,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -2816,7 +3211,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -2832,12 +3229,15 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra S - Heated Seats - Apple CarPlayin Mission",
       "vin": "3N1AB8BV9RY334488",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9ba803189ea1.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Sentra-id14286057.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Sentra-id14286057.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2847,8 +3247,10 @@
       "odometer_km": 23182,
       "year": 2024,
       "make": "Nissan",
-      "model": "Sentra S - Heated Seats - Apple CarPlayin Mission",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -2864,12 +3266,15 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa SV KEYLESS | PUSH START | BLUETOOTHin Mission",
       "vin": "3N1CN8EV2RL852466",
       "stock": "NUMBER",
+      "trim": "SV KEYLESS",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/1475aa44f850.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Versa-id14027531.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Versa-id14027531.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2879,13 +3284,16 @@
       "odometer_km": 47898,
       "year": 2024,
       "make": "Nissan",
-      "model": "Versa SV KEYLESS",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa SV - Heated Seats - Apple CarPlayin Mission",
       "vin": "3N1CN8EV2RL855450",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/5dd3e8885e91.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Versa-id14286051.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-Nissan-Versa-id14286051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2895,8 +3303,10 @@
       "odometer_km": 48589,
       "year": 2024,
       "make": "Nissan",
-      "model": "Versa SV - Heated Seats - Apple CarPlayin Mission",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa ",
@@ -2911,7 +3321,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -2927,7 +3339,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -2943,7 +3357,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa ",
@@ -2958,12 +3374,15 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Sport - Navigation - Heated Seatsin Mission",
       "vin": "1C6SRFVT6RN163134",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/aa5a70817580.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2024-RAM-1500-id14418233.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2024-RAM-1500-id14418233.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2971,8 +3390,10 @@
       "odometer_km": 62257,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Sport - Navigation - Heated Seatsin Mission",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -2985,7 +3406,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -3000,7 +3423,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 ",
@@ -3015,7 +3440,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -3031,7 +3458,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -3044,7 +3473,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -3060,7 +3491,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model 3 ",
@@ -3076,7 +3509,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Camry ",
@@ -3092,7 +3527,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla ",
@@ -3108,7 +3545,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Hatchback ",
@@ -3124,7 +3563,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 ",
@@ -3140,7 +3581,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla ",
@@ -3156,7 +3599,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 ",
@@ -3172,7 +3617,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -3186,7 +3633,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -3202,7 +3651,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -3216,7 +3667,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -3232,7 +3685,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -3248,7 +3703,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -3264,7 +3721,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 2 Series ",
@@ -3280,7 +3739,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 3 Series ",
@@ -3296,7 +3757,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -3310,7 +3773,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Chrysler Pacifica ",
@@ -3325,7 +3790,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -3341,7 +3808,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -3355,7 +3824,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -3369,7 +3840,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Ridgeline ",
@@ -3382,7 +3855,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra ",
@@ -3397,7 +3872,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -3413,7 +3890,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -3429,7 +3908,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass ",
@@ -3445,7 +3926,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -3461,7 +3944,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -3477,12 +3962,15 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 EX - Heated Seatsin Mission",
       "vin": "3KPFU4DEXSE148842",
       "stock": "NUMBER",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/35988661b92f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2025-Kia-K4-id14286053.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Kia-K4-id14286053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3492,8 +3980,10 @@
       "odometer_km": 23743,
       "year": 2025,
       "make": "Kia",
-      "model": "K4 EX - Heated Seatsin Mission",
-      "condition": "used"
+      "model": "K4",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -3508,7 +3998,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos ",
@@ -3524,7 +4016,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-90 PHEV ",
@@ -3537,7 +4031,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
@@ -3553,12 +4049,15 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi RVR ES AWC - Heated Seats - Apple CarPlayin Mission",
       "vin": "JA4AJUAU8SU605299",
       "stock": "NUMBER",
+      "trim": "ES AWC",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/3499e940a9be.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2025-Mitsubishi-RVR-id14437237.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Mitsubishi-RVR-id14437237.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3566,8 +4065,10 @@
       "odometer_km": 15542,
       "year": 2025,
       "make": "Mitsubishi",
-      "model": "RVR ES AWC - Heated Seats - Apple CarPlayin Mission",
-      "condition": "used"
+      "model": "RVR",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi RVR ",
@@ -3582,7 +4083,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi RVR ",
@@ -3597,7 +4100,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -3612,12 +4117,15 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV1SL496805",
       "stock": 13265464,
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9f5b4fae50d1.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3626,8 +4134,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Murano ",
@@ -3643,7 +4153,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -3659,7 +4171,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa ",
@@ -3674,7 +4188,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -3689,7 +4205,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -3705,7 +4223,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -3721,7 +4241,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -3737,7 +4259,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla ",
@@ -3753,7 +4277,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla Cross ",
@@ -3769,7 +4295,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -3785,7 +4313,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -3801,7 +4331,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Mission",
@@ -3815,7 +4347,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Mission",
@@ -3829,11 +4363,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Mission",
       "stock": "NUMBER",
+      "trim": "Hybridin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/545e249b1517.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3842,8 +4379,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Mission",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Mission",
@@ -3857,7 +4396,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Mission",
@@ -3871,11 +4412,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Mission",
       "stock": "NUMBER",
+      "trim": "Hybridin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/545e249b1517.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3884,8 +4428,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Mission",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -3901,7 +4447,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -3917,7 +4465,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -3933,7 +4483,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -3949,7 +4501,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -3965,7 +4519,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -3981,7 +4537,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -3997,7 +4555,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4013,7 +4573,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4029,7 +4591,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4045,7 +4609,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4061,7 +4627,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4077,7 +4645,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4093,7 +4663,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $206 B/Win Mission",
@@ -4109,7 +4681,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $206 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ICONA - $240 B/Win Mission",
@@ -4125,7 +4699,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e ICONA - $240 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4141,7 +4717,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4157,7 +4735,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4173,7 +4753,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ICONA - $234 B/Win Mission",
@@ -4189,7 +4771,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e ICONA - $234 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $206 B/Win Mission",
@@ -4205,7 +4789,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $206 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ICONA - $228 B/Win Mission",
@@ -4221,7 +4807,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e ICONA - $228 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ICONA - $234 B/Win Mission",
@@ -4237,7 +4825,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e ICONA - $234 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4253,7 +4843,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4269,7 +4861,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4285,7 +4879,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e POP - $210 B/Win Mission",
@@ -4301,7 +4897,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e POP - $210 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Fiat 500e ",
@@ -4317,7 +4915,9 @@
       "year": 2026,
       "make": "Fiat",
       "model": "500e",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V ",
@@ -4333,7 +4933,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -4348,7 +4950,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -4364,7 +4968,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan ",
@@ -4380,7 +4986,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V ",
@@ -4396,7 +5004,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -4411,7 +5021,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -4427,7 +5039,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -4443,7 +5057,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -4458,7 +5074,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -4474,7 +5092,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -4490,7 +5110,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -4506,7 +5128,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -4522,7 +5146,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -4538,11 +5164,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/d071ae95323b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4551,8 +5180,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Mission",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Mission",
@@ -4566,11 +5197,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0075f9c92863.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4579,8 +5213,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Mission",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Mission",
@@ -4594,7 +5230,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -4610,7 +5248,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -4626,7 +5266,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -4642,7 +5284,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -4657,7 +5301,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -4673,7 +5319,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -4689,7 +5337,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -4705,7 +5355,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -4721,11 +5373,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/d071ae95323b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4734,8 +5389,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Mission",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Mission",
@@ -4749,11 +5406,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/0075f9c92863.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4762,8 +5422,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Mission",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Mission",
@@ -4777,7 +5439,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -4793,7 +5457,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee 4x4 - Heated Seats - $261 B/Win Mission",
@@ -4809,7 +5475,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee 4x4 - Heated Seats - $261 B/Win Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -4825,13 +5493,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport - $212 B/Win Mission",
       "vin": "3C4NJDAN9TT168084",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5736e14660c2.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12848369.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12848369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4840,14 +5511,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport - $212 B/Win Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN4TT181405",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/f6509c278b13.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12848375.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12848375.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4856,14 +5530,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN5TT184944",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/be952dbbf34e.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971076.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4872,14 +5549,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN6TT181406",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fb60ebac307f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971077.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971077.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4888,14 +5568,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN8TT181407",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/dc103b63a0f7.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971079.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971079.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4904,14 +5587,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof - $257 B/Win Mission",
       "vin": "3C4NJDBN9TT181402",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8a869a92557f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971083.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4920,14 +5606,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof - $257 B/Win Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN9TT189015",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ff006e41b697.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971085.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971085.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4936,14 +5625,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN0TT181403",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/39cc44138c43.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971086.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12971086.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4952,14 +5644,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN1TT189011",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/a0c4c8a9803d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12996742.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12996742.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4968,14 +5663,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN3TT189012",
       "stock": "NUMBER",
       "color": "Joose",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5b4fcdfe6180.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12996743.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id12996743.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4984,14 +5682,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN9TT184946",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/3f5c8bd55176.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13066743.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13066743.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5000,14 +5701,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN3TT198941",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fd9ead582f45.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223473.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223473.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5016,14 +5720,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN5TT189013",
       "stock": "NUMBER",
       "color": "Joose",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fb5cf586bec5.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223475.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223475.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5032,14 +5739,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN1TT198937",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7c5f8b1ab3d3.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223476.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223476.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5048,14 +5758,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN6TT185830",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/1618f8904f0d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223481.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13223481.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5064,14 +5777,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN3TT212840",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/63772912063d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13443726.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13443726.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5080,13 +5796,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Sunroof -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North - Remote Start -in Mission",
       "vin": "3C4NJDBN5TT244950",
       "stock": "NUMBER",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ab70317a0892.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13757242.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id13757242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5095,14 +5814,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North - Remote Start -in Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
       "vin": "3C4NJDAN3TT189108",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6919a411f53f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14358358.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14358358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5111,13 +5833,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport - Heated Seats - LED Lights - $214 B/Win Mission",
       "vin": "3C4NJDAN1TT216628",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/048bb0c7a7c5.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14369782.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14369782.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5126,14 +5851,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport - Heated Seats - LED Lights - $214 B/Win Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
       "vin": "3C4NJDAN8TT216626",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5130a02dbed9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14384195.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Compass-id14384195.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5142,8 +5870,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -5159,7 +5889,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -5175,7 +5907,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -5191,20 +5925,25 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willys - Tow Hooks - Wi-Fi Hotspotin Mission",
       "vin": "1C4RJXDG1TW324094",
       "stock": "NUMBER",
+      "trim": "Willys",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/713d971db9f6.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Wrangler-id14418240.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-Jeep-Wrangler-id14418240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T23:48:12",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willys - Tow Hooks - Wi-Fi Hotspotin Mission",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -5218,7 +5957,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -5234,7 +5975,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Mitsubishi Eclipse Cross ",
@@ -5250,7 +5993,9 @@
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -5266,7 +6011,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -5282,12 +6029,15 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sport - Navigation - Apple CarPlayin Mission",
       "vin": "1C6SRFVT7TN332696",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9771e9a40d2b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2026-RAM-1500-id14437238.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2026-RAM-1500-id14437238.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5295,8 +6045,10 @@
       "odometer_km": 7964,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sport - Navigation - Apple CarPlayin Mission",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -5312,7 +6064,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -5327,7 +6081,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -5343,7 +6099,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -5359,21 +6117,26 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Limited - Power Tailgate - Premium Audioin Mission",
       "vin": "1C6SRFHT9TN384665",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/91dfd3d74783.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-RAM-1500-id14437236.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-RAM-1500-id14437236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T23:55:45",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Limited - Power Tailgate - Premium Audioin Mission",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -5389,7 +6152,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -5405,7 +6170,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -5421,7 +6188,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Mission",
@@ -5435,11 +6204,14 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 3500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/8bb83e68325b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-3500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5448,12 +6220,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "3500 Chassisin Mission",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 4500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/20d93cd2f860.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-4500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5462,12 +6237,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "4500 Chassisin Mission",
-      "condition": "used"
+      "model": "4500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 5500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/b211fd9cee0f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-5500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5476,12 +6254,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "5500 Chassisin Mission",
-      "condition": "used"
+      "model": "5500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/c6d33966902c.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5490,12 +6271,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Vanin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Van EVin Mission",
       "stock": "NUMBER",
+      "trim": "Van EVin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/faa83e132ce9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5504,12 +6288,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Van EVin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cutawayin Mission",
       "stock": "NUMBER",
+      "trim": "Cutawayin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/b9a95bc7a309.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5518,12 +6305,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Window Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Window Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7442bd2fb2a6.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5532,8 +6322,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Mission",
@@ -5547,11 +6339,14 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 3500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8bb83e68325b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-3500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5560,12 +6355,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "3500 Chassisin Mission",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 4500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/20d93cd2f860.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-4500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5574,12 +6372,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "4500 Chassisin Mission",
-      "condition": "new"
+      "model": "4500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 5500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/b211fd9cee0f.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-5500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5588,12 +6389,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "5500 Chassisin Mission",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/c6d33966902c.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5602,12 +6406,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Vanin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Van EVin Mission",
       "stock": "NUMBER",
+      "trim": "Van EVin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/faa83e132ce9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5616,12 +6423,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Van EVin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cutawayin Mission",
       "stock": "NUMBER",
+      "trim": "Cutawayin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/b9a95bc7a309.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5630,12 +6440,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Window Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Window Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7442bd2fb2a6.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2026-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5644,13 +6457,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma BASE - Low Mileagein Mission",
       "vin": "3TYLB5JN8TT144125",
       "stock": "NUMBER",
+      "trim": "BASE",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/a705dbd6cf92.html",
       "source_url": "https://www.pioneerchryslerjeep.com/used/2026-Toyota-Tacoma-id14437235.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2026-Toyota-Tacoma-id14437235.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5658,8 +6474,10 @@
       "odometer_km": 1250,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma BASE - Low Mileagein Mission",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma ",
@@ -5672,7 +6490,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -5688,7 +6508,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacificain Mission",
@@ -5702,7 +6524,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacificain Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -5718,7 +6542,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacificain Mission",
@@ -5732,7 +6558,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacificain Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -5748,7 +6576,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Mission",
@@ -5762,7 +6592,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Mission",
@@ -5776,7 +6608,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Mission",
@@ -5790,7 +6624,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Mission",
@@ -5804,7 +6640,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Mission",
@@ -5818,7 +6656,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Mission",
@@ -5832,7 +6672,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Mission",
@@ -5846,7 +6688,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Mission",
@@ -5860,11 +6704,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6ff5a7582dd3.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5873,8 +6720,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Mission",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Mission",
@@ -5888,11 +6737,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/8ac615812847.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5901,8 +6753,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Mission",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Mission",
@@ -5916,7 +6770,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Mission",
@@ -5930,7 +6786,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Mission",
@@ -5944,7 +6802,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Mission",
@@ -5958,7 +6818,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Mission",
@@ -5972,11 +6834,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6ff5a7582dd3.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5985,8 +6850,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Mission",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Mission",
@@ -6000,11 +6867,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Mission",
       "stock": "NUMBER",
+      "trim": "Lin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8ac615812847.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6013,8 +6883,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Mission",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Mission",
@@ -6028,7 +6900,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -6044,7 +6918,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -6060,7 +6936,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -6076,7 +6954,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Mission",
@@ -6090,7 +6970,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Mission",
@@ -6104,11 +6986,14 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Mission",
-      "condition": "used"
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6584f520dd69.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6117,12 +7002,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "3500 Chassisin Mission",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 4500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9fdc5c6c6231.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-4500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6131,12 +7019,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "4500 Chassisin Mission",
-      "condition": "used"
+      "model": "4500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 5500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/20198dad6d16.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6145,12 +7036,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "5500 Chassisin Mission",
-      "condition": "used"
+      "model": "5500",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cargo Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/b3b224968f7d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6159,12 +7053,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cargo Vanin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cutawayin Mission",
       "stock": "NUMBER",
+      "trim": "Cutawayin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/d2f9acefb8e9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6173,12 +7070,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Window Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Window Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/8d03e2b0ce5b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6187,8 +7087,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Mission",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Mission",
@@ -6202,7 +7104,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Mission",
@@ -6216,11 +7120,14 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Mission",
-      "condition": "new"
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6584f520dd69.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6229,12 +7136,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "3500 Chassisin Mission",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 4500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/9fdc5c6c6231.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-4500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6243,12 +7153,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "4500 Chassisin Mission",
-      "condition": "new"
+      "model": "4500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 5500 Chassisin Mission",
       "stock": "NUMBER",
+      "trim": "Chassisin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/20198dad6d16.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6257,12 +7170,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "5500 Chassisin Mission",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cargo Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/b3b224968f7d.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6271,12 +7187,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cargo Vanin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cutawayin Mission",
       "stock": "NUMBER",
+      "trim": "Cutawayin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/d2f9acefb8e9.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6285,12 +7204,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Window Vanin Mission",
       "stock": "NUMBER",
+      "trim": "Window Vanin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8d03e2b0ce5b.html",
       "source_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6299,8 +7221,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Mission",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Mission",
+      "province": "BC"
     }
   ]
 }
