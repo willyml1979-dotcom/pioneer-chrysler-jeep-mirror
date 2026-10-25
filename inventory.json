@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-10-25T15:20:23",
-  "vehicle_count": 344,
+  "generated_at": "2026-10-25T15:25:43",
+  "vehicle_count": 345,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -18,6 +18,34 @@
       "condition": "new",
       "price": 47390.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
+      "vin": "3C4NJDBN5TT198939",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/15ef2e0de122.html",
+      "condition": "new",
+      "price": 45525.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
+      "vin": "3C4NJDBN1TT198940",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7594d12bf120.html",
+      "condition": "new",
+      "price": 45725.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Rubiconin Mission",
+      "vin": "1C4PJXFN4TW197537",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/07af3cc6ded6.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Rubiconin Mission",
+      "vin": "1C4PJXFN9TW191619",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/26a348a3aeea.html",
+      "condition": "new"
     },
     {
       "name": "2008 Ford F-150in Mission",
@@ -2815,13 +2843,13 @@
     },
     {
       "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMA23TT236829",
+      "vin": "3C4PJMB24TT196579",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/46765ef57601.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 42885.0,
+      "price": 48185.0,
       "price_currency": "CAD"
     },
     {
@@ -2864,7 +2892,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "new",
-      "price": 62390.0,
+      "price": 60890.0,
       "price_currency": "CAD"
     },
     {
@@ -2874,7 +2902,7 @@
       "make": "Jeep",
       "model": "Grand Wagoneerin Mission",
       "condition": "new",
-      "price": 92585.0,
+      "price": 90085.0,
       "price_currency": "CAD"
     },
     {
@@ -2884,7 +2912,7 @@
       "make": "Jeep",
       "model": "Grand Wagoneer",
       "condition": "new",
-      "price": 96085.0,
+      "price": 93585.0,
       "price_currency": "CAD"
     },
     {
@@ -3082,28 +3110,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 46180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN5TT198939",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/15ef2e0de122.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45525.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN1TT198940",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7594d12bf120.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45725.0,
       "price_currency": "CAD"
     },
     {
@@ -3323,15 +3329,6 @@
       "condition": "new",
       "price": 85715.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Limited - Power Tailgate - Premium Audioin Mission",
-      "vin": "1C6SRFHT9TN384665",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/91dfd3d74783.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
     },
     {
       "name": "2026 RAM 1500 ",
