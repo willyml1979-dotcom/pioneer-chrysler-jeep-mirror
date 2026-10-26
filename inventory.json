@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-10-26T00:51:42",
-  "vehicle_count": 345,
+  "generated_at": "2026-10-26T00:55:59",
+  "vehicle_count": 344,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -33,6 +33,30 @@
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7594d12bf120.html",
       "condition": "new",
       "price": 45725.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass Trailhawk - Leather Seats -in Mission",
+      "vin": "3C4NJDDN4TT195415",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7304dd63a195.html",
+      "condition": "new",
+      "price": 46480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
+      "vin": "3C4NJDBN2TT226065",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6e5a5438b112.html",
+      "condition": "new",
+      "price": 46025.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport - $289 B/Win Mission",
+      "vin": "1C4PJXAN1TW334540",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7dce4fe7e43e.html",
+      "condition": "new",
+      "price": 46585.0,
       "price_currency": "CAD"
     },
     {
@@ -3102,28 +3126,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Trailhawk - Leather Seats -in Mission",
-      "vin": "3C4NJDDN6TT195416",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/f0f14c4d8fc6.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 46180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Trailhawk - Leather Seats -in Mission",
-      "vin": "3C4NJDDN4TT195415",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7304dd63a195.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 46480.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN3TT212840",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/63772912063d.html",
@@ -3132,17 +3134,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 45430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN2TT226065",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6e5a5438b112.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 46025.0,
       "price_currency": "CAD"
     },
     {
@@ -3220,17 +3211,6 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 47080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sport - $289 B/Win Mission",
-      "vin": "1C4PJXAN1TW334540",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7dce4fe7e43e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 46585.0,
       "price_currency": "CAD"
     },
     {
