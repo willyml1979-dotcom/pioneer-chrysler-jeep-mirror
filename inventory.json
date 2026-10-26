@@ -1,6 +1,6 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-10-25T15:25:43",
+  "generated_at": "2026-10-26T00:51:42",
   "vehicle_count": 345,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2117,7 +2117,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 25400.0,
+      "price": 23850.0,
       "price_currency": "CAD"
     },
     {
@@ -2149,9 +2149,7 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used",
-      "price": 33488.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -2177,24 +2175,24 @@
     },
     {
       "name": "2025 Kia K4 ",
-      "vin": "3KPFU4DEXSE148842",
+      "vin": "3KPFU4DE7SE150175",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7d0a88e15bdf.html",
       "year": 2025,
       "make": "Kia",
       "model": "K4",
       "condition": "used",
-      "price": 24888.0,
+      "price": 22888.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Kia Seltos ",
-      "vin": "KNDEUCAAXS7789710",
+      "vin": "KNDEUCAA9S7712150",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/a622885f6f29.html",
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 28889.0,
+      "price": 27888.0,
       "price_currency": "CAD"
     },
     {
@@ -2204,7 +2202,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "price": 51800.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
@@ -2307,13 +2307,13 @@
     },
     {
       "name": "2025 Nissan Kicks ",
-      "vin": "3N8AP6CB7SL425287",
+      "vin": "3N8AP6CB0SL400697",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/beec8483fe43.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 24888.0,
+      "price": 31888.0,
       "price_currency": "CAD"
     },
     {
@@ -2335,7 +2335,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "used",
-      "price": 48888.0,
+      "price": 46488.0,
       "price_currency": "CAD"
     },
     {
