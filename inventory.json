@@ -1,6 +1,6 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-10-26T09:19:14",
+  "generated_at": "2026-10-26T09:23:27",
   "vehicle_count": 343,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3426,13 +3426,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacificain Mission",
+      "name": "2027 Chrysler Pacifica ",
+      "vin": "2C4RC3BG1VR622341",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/a771251195b0.html",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacificain Mission",
+      "model": "Pacifica",
       "condition": "new",
-      "price": 52995.0,
+      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
@@ -3554,7 +3555,7 @@
       "make": "Jeep",
       "model": "Wranglerin Mission",
       "condition": "new",
-      "price": 44595.0,
+      "price": 46595.0,
       "price_currency": "CAD"
     },
     {
