@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-10-26T00:55:59",
-  "vehicle_count": 344,
+  "generated_at": "2026-10-26T09:19:14",
+  "vehicle_count": 343,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1143,15 +1143,6 @@
     },
     {
       "name": "2023 Ford F-150 XLT - Aluminum Wheels - SYNCin Mission",
-      "vin": "1FTFW1E8XPKD36069",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7e99238a09c6.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
-    },
-    {
-      "name": "2023 Ford F-150 XLT - Aluminum Wheels - SYNCin Mission",
       "vin": "1FTFW1ED9PFA77175",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/57a31a6c2c42.html",
       "year": 2023,
@@ -1404,17 +1395,6 @@
       "model": "GR Supra",
       "condition": "used",
       "price": 62888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota RAV4 ",
-      "vin": "2T35WRFV6PW161289",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/81cc9bf354d2.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 44888.0,
       "price_currency": "CAD"
     },
     {
@@ -2308,6 +2288,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mitsubishi RVR ES AWC - Heated Seats - Apple CarPlayin Mission",
+      "vin": "JA4AJUAU8SU605299",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/3499e940a9be.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used",
+      "price": 25888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Mitsubishi RVR ",
       "vin": "JA4AJUAUXSU605238",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/136c8e123bef.html",
@@ -2469,7 +2460,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27800.0,
+      "price": 26800.0,
       "price_currency": "CAD"
     },
     {
@@ -2741,7 +2732,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 43888.0,
+      "price": 41888.0,
       "price_currency": "CAD"
     },
     {
@@ -2752,7 +2743,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 37825.0,
+      "price": 35988.0,
       "price_currency": "CAD"
     },
     {
@@ -2763,7 +2754,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 40888.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -2774,7 +2765,7 @@
       "make": "Honda",
       "model": "Civic Sedan",
       "condition": "used",
-      "price": 36888.0,
+      "price": 35888.0,
       "price_currency": "CAD"
     },
     {
@@ -2785,7 +2776,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "used",
-      "price": 38888.0,
+      "price": 36888.0,
       "price_currency": "CAD"
     },
     {
@@ -2818,7 +2809,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 43800.0,
+      "price": 42800.0,
       "price_currency": "CAD"
     },
     {
@@ -2829,7 +2820,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 35400.0,
+      "price": 34800.0,
       "price_currency": "CAD"
     },
     {
@@ -3254,7 +3245,7 @@
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "used",
-      "price": 29888.0,
+      "price": 27888.0,
       "price_currency": "CAD"
     },
     {
