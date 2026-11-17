@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-17T11:35:51",
-  "vehicle_count": 343,
+  "generated_at": "2026-11-17T11:44:07",
+  "vehicle_count": 353,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -384,6 +384,38 @@
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/35fbbaa120b3.html",
       "condition": "used",
       "price": 19888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Charger 2026 for salein Mission",
+      "vin": "2C3CDARP3TR280213",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/b497f1d1da51.html",
+      "condition": "new",
+      "price": 71680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2026 for salein Mission",
+      "vin": "1C4SDJCT5TC172973",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/2d8cda89eeef.html",
+      "condition": "new",
+      "price": 72980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2027 for salein Mission",
+      "vin": "1C4RDJDG1VC587727",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/4fcaef5fb59c.html",
+      "condition": "new",
+      "price": 70225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Mission",
+      "vin": "3C63R3CL7VG415952",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6f56bbe8fedf.html",
+      "condition": "new",
+      "price": 92650.0,
       "price_currency": "CAD"
     },
     {
@@ -2415,28 +2447,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Charger ",
-      "vin": "2C3CDARP3TR280213",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/b497f1d1da51.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "new",
-      "price": 71680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4SDJCT5TC172973",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/2d8cda89eeef.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 72980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Fiat 500e ",
       "vin": "ZFAFFAB4XTX284044",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8bf89705d494.html",
@@ -2470,56 +2480,56 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $206 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $206 B/Win Mission",
       "vin": "ZFAFFAB4XTX284044",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/9d357c27e00a.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $206 B/Win Mission",
+      "model": "500e Pop - Navigation - $206 B/Win Mission",
       "condition": "new",
       "price": 34290.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e ICONA - $240 B/Win Mission",
+      "name": "New 2026 Fiat 500e Icona - $240 B/Win Mission",
       "vin": "ZFAFFAC49TX282817",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fb7ea5723747.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e ICONA - $240 B/Win Mission",
+      "model": "500e Icona - $240 B/Win Mission",
       "condition": "new",
       "price": 39975.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB40TX284585",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/d893ad5245c0.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB43TX284533",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e23d5731781a.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
-      "price": 34985.0,
+      "price": 42985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB41TX283283",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5786d2457a87.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
       "price_currency": "CAD"
@@ -2793,6 +2803,72 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 47080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start -in Mission",
+      "vin": "3C4PJMB23TT195651",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/4755812264a3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start -in Mission",
+      "vin": "3C4PJMB27TT222060",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/30cfab5d134a.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start -in Mission",
+      "vin": "3C4PJMB20TT222062",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/1538c341fb7a.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start - $297 B/Win Mission",
+      "vin": "3C4PJMB28TT216039",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/df097220c6c2.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start -in Mission",
+      "vin": "3C4PJMB21TT217050",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/efc23ce8326b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo - Heated Seats - Remote Start -in Mission",
+      "vin": "3C4PJMB20TT222059",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e6d583f66d83.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47685.0,
       "price_currency": "CAD"
     },
     {
@@ -3093,7 +3169,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sport - $292 B/Win Mission",
+      "name": "New 2026 Jeep Wrangler Sport - $292 B/Win Mission",
       "vin": "1C4PJXAN9TW334527",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/0ed66d71fa38.html",
       "year": 2026,
@@ -3197,6 +3273,24 @@
       "condition": "new",
       "price": 85715.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Sport - Navigation - Apple CarPlayin Mission",
+      "vin": "3C6SRFVP6T4176521",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/eef2e2f655a5.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 RAM 1500 Express - Remote Startin Mission",
+      "vin": "1C6SRFGP7TN403041",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/c26235c8c25b.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3489,12 +3583,13 @@
     },
     {
       "name": "2027 Ram 3500in Mission",
+      "vin": "3C63R3CL7VG415952",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/0914d054a580.html",
       "year": 2027,
       "make": "Ram",
       "model": "3500in Mission",
       "condition": "new",
-      "price": 69840.0,
+      "price": 72140.0,
       "price_currency": "CAD"
     },
     {
@@ -3504,7 +3599,7 @@
       "make": "Ram",
       "model": "3500",
       "condition": "new",
-      "price": 66890.0,
+      "price": 69190.0,
       "price_currency": "CAD"
     },
     {
@@ -3514,7 +3609,7 @@
       "make": "Ram",
       "model": "4500",
       "condition": "new",
-      "price": 69890.0,
+      "price": 72190.0,
       "price_currency": "CAD"
     },
     {
@@ -3524,7 +3619,7 @@
       "make": "Ram",
       "model": "5500",
       "condition": "new",
-      "price": 72190.0,
+      "price": 74190.0,
       "price_currency": "CAD"
     },
     {
@@ -3534,7 +3629,7 @@
       "make": "Ram",
       "model": "ProMaster",
       "condition": "new",
-      "price": 61615.0,
+      "price": 63715.0,
       "price_currency": "CAD"
     },
     {
@@ -3544,7 +3639,7 @@
       "make": "Ram",
       "model": "ProMaster",
       "condition": "new",
-      "price": 58615.0,
+      "price": 60615.0,
       "price_currency": "CAD"
     },
     {
@@ -3554,7 +3649,7 @@
       "make": "Ram",
       "model": "ProMaster",
       "condition": "new",
-      "price": 68210.0,
+      "price": 70210.0,
       "price_currency": "CAD"
     }
   ]
