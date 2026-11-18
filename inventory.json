@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-18T11:17:34",
-  "vehicle_count": 349,
+  "generated_at": "2026-11-18T11:20:41",
+  "vehicle_count": 346,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2786,28 +2786,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee 4x4 - Heated Seats - $266 B/Win Mission",
-      "vin": "3C4PJMA23TT236829",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6e332c880a8b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee 4x4 - Heated Seats - $266 B/Win Mission",
-      "condition": "new",
-      "price": 42885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport - $215 B/Win Mission",
-      "vin": "3C4NJDAN9TT168084",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5736e14660c2.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN5TT184944",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/be952dbbf34e.html",
@@ -2816,17 +2794,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 43180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN6TT181406",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fb60ebac307f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42680.0,
       "price_currency": "CAD"
     },
     {
@@ -2852,18 +2819,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "2026 Jeep Compass North North 4x4 Heated Sunroof demoin Mission",
       "vin": "3C4NJDBN0TT181403",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/39cc44138c43.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass",
+      "model": "Compass North North 4x4 Heated Sunroof demoin Mission",
       "condition": "new",
-      "price": 42680.0,
+      "price": 48680.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN1TT189011",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/a0c4c8a9803d.html",
       "year": 2026,
@@ -2885,7 +2852,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN9TT184946",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/3f5c8bd55176.html",
       "year": 2026,
@@ -2896,18 +2863,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof - $282 B/Win Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof - $282 B/Win Mission",
       "vin": "3C4NJDBN3TT198941",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fd9ead582f45.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 45425.0,
+      "price": 51425.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN5TT189013",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/fb5cf586bec5.html",
       "year": 2026,
@@ -2918,7 +2885,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN1TT198937",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/7c5f8b1ab3d3.html",
       "year": 2026,
@@ -2929,7 +2896,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN6TT185830",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/1618f8904f0d.html",
       "year": 2026,
@@ -2995,7 +2962,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Remote Start -in Mission",
+      "name": "New 2026 Jeep Compass North - Remote Start -in Mission",
       "vin": "3C4NJDBN5TT244950",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ab70317a0892.html",
       "year": 2026,
@@ -3083,7 +3050,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sport - $292 B/Win Mission",
+      "name": "New 2026 Jeep Wrangler Sport - $292 B/Win Mission",
       "vin": "1C4PJXAN7TW334526",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/239f916571a3.html",
       "year": 2026,
