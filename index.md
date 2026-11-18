@@ -1,6 +1,6 @@
 # Pioneer Chrysler Jeep
 
- dealership in Mission. AI-readable inventory mirror, about 350 vehicles.
+ dealership in Mission. AI-readable inventory mirror, about 349 vehicles.
 
 - Official website: https://www.pioneerchryslerjeep.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/

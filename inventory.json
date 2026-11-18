@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-18T02:26:00",
-  "vehicle_count": 350,
+  "generated_at": "2026-11-18T11:17:34",
+  "vehicle_count": 349,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -54,11 +54,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Challenger 2015 for salein Mission",
+      "vin": "2C3CDZFJ9FH722730",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9d432355ecfd.html",
+      "condition": "used",
+      "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang 2015 for salein Mission",
+      "vin": "1FATP8UH1F5393662",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/b3b8c49b35d8.html",
+      "condition": "used",
+      "price": 24888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2015 for salein Mission",
+      "vin": "KNDJP3A50F7760554",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/af9607e457ec.html",
+      "condition": "used",
+      "price": 10800.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota RAV4 2015 for salein Mission",
       "vin": "2T3DFREV2FW337220",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6bc5cb00cfb0.html",
       "condition": "used",
       "price": 12500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2016 for salein Mission",
+      "vin": "2GKFLSEK0G6156522",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/ecdec17710a9.html",
+      "condition": "used",
+      "price": 11995.0,
       "price_currency": "CAD"
     },
     {
@@ -76,6 +108,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Versa Note 2016 for salein Mission",
+      "vin": "3N1CE2CP7GL389822",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6df279a73b9b.html",
+      "condition": "used",
+      "price": 12888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 3500 2016 for salein Mission",
       "vin": "3C63R3DL0GG251235",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7bde5ed819ed.html",
@@ -84,11 +124,59 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volvo XC90 2016 for salein Mission",
+      "vin": "YV4A22PL0G1027341",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/13ab09baa6be.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi RS 7 2017 for salein Mission",
+      "vin": "WUAWAAFC5HN904846",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4ee9f0af7225.html",
+      "condition": "used",
+      "price": 40888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW 3 Series 2017 for salein Mission",
       "vin": "WBA8E5G59HNU22654",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7c3f4a302385.html",
       "condition": "used",
       "price": 15800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Sonic 2017 for salein Mission",
+      "vin": "1G1JD6SB5H4163654",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/acb7db6bdf08.html",
+      "condition": "used",
+      "price": 10888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Murano 2017 for salein Mission",
+      "vin": "5N1AZ2MH3HN132203",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7f775a49c8a5.html",
+      "condition": "used",
+      "price": 13888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2017 for salein Mission",
+      "vin": "5N1DR2MM6HC626948",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/66b1534f60f8.html",
+      "condition": "used",
+      "price": 14900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi R8 2018 for salein Mission",
+      "vin": "WUAVACFX3J7900086",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/f0a2441d1411.html",
+      "condition": "used",
+      "price": 151888.0,
       "price_currency": "CAD"
     },
     {
@@ -551,39 +639,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Dodge Challenger ",
-      "vin": "2C3CDZFJ9FH722730",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9d432355ecfd.html",
-      "year": 2015,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "used",
-      "price": 35800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Ford Mustang ",
-      "vin": "1FATP8UH1F5393662",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/b3b8c49b35d8.html",
-      "year": 2015,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 21488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Kia Soul ",
-      "vin": "KNDJP3A50F7760554",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/af9607e457ec.html",
-      "year": 2015,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 9800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Mercedes-Benz GLA-Class GLA 250in Mission",
       "vin": "WDCTG4GB5FJ068492",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/63826a521129.html",
@@ -592,17 +647,6 @@
       "model": "GLA",
       "condition": "used",
       "price": 11995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 GMC Terrain ",
-      "vin": "2GKFLSEK0G6156522",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/ecdec17710a9.html",
-      "year": 2016,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 9800.0,
       "price_currency": "CAD"
     },
     {
@@ -637,37 +681,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Nissan Versa Note ",
-      "vin": "3N1CE2CP7GL389822",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6df279a73b9b.html",
-      "year": 2016,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 9888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volvo XC90 ",
-      "vin": "YV4A22PL0G1027341",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/13ab09baa6be.html",
-      "year": 2016,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Audi RS 7 ",
-      "vin": "WUAWAAFC5HN904846",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4ee9f0af7225.html",
-      "year": 2017,
-      "make": "Audi",
-      "model": "RS 7",
-      "condition": "used",
-      "price": 38888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Chevrolet Sonic LT - Bluetooth - $81 B/Win Mission",
       "vin": "1G1JD6SB5H4163654",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/ba09fe70490e.html",
@@ -679,58 +692,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Sonic ",
-      "vin": "1G1JD6SB5H4163654",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/acb7db6bdf08.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Sonic",
-      "condition": "used",
-      "price": 10888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Mercedes-Benz GLA 250 4MATIC - Leather Seats - $121 B/Win Mission",
+      "name": "2017 Mercedes-Benz GLA 250 4MATIC - Leather Seats - $114 B/Win Mission",
       "vin": "WDCTG4GBXHJ305805",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/5e8d1e32dc07.html",
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 16888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Nissan Murano ",
-      "vin": "5N1AZ2MH3HN132203",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7f775a49c8a5.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 12888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Nissan Pathfinder ",
-      "vin": "5N1DR2MM6HC626948",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/66b1534f60f8.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
       "price": 15750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi R8 ",
-      "vin": "WUAVACFX3J7900086",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/f0a2441d1411.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "R8",
-      "condition": "used",
-      "price": 148888.0,
       "price_currency": "CAD"
     },
     {
@@ -1157,15 +1126,6 @@
       "condition": "used",
       "price": 22888.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 Limited - Navigation - Leather Seatsin Mission",
-      "vin": "1C6SRFHT0MN702397",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4690655edf32.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -1680,6 +1640,15 @@
       "condition": "used",
       "price": 43888.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Land Rover Range Rover Sport P400 Dynamic SEin Mission",
+      "vin": "SAL1L9FU6RA419268",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6cda9f6228a5.html",
+      "year": 2024,
+      "make": "Land",
+      "model": "Rover Range Rover Sport P400 Dynamic SEin Mission",
+      "condition": "used"
     },
     {
       "name": "2024 Lexus RX ",
@@ -2609,17 +2578,6 @@
       "model": "Odyssey",
       "condition": "used",
       "price": 59288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra ",
-      "vin": "KMHLM4DG7TU136702",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/1221e30266d5.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 32888.0,
       "price_currency": "CAD"
     },
     {
