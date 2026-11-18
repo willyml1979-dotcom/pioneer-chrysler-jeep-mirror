@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-17T11:44:07",
-  "vehicle_count": 353,
+  "generated_at": "2026-11-18T02:21:45",
+  "vehicle_count": 350,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,11 +14,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge RAM 3500 2010 for salein Mission",
+      "vin": "3D73Y3CL2AG124626",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/024e23e20756.html",
+      "condition": "used",
+      "price": 22888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Grand Cherokee 2013 for salein Mission",
       "vin": "1C4RJFAG4DC535999",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7757b29926a8.html",
       "condition": "used",
       "price": 12900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 7 Series 2014 for salein Mission",
+      "vin": "WBAYF8C5XED142182",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/962448d5ec06.html",
+      "condition": "used",
+      "price": 13888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Cadillac ATS 2014 for salein Mission",
+      "vin": "1G6AH5RX7E0190884",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/cb9e4d5e555c.html",
+      "condition": "used",
+      "price": 14888.0,
       "price_currency": "CAD"
     },
     {
@@ -139,6 +163,22 @@
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/4ac07178f280.html",
       "condition": "used",
       "price": 13900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2019 for salein Mission",
+      "vin": "1C6RR7KG4KS736891",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/6c1a99094e2d.html",
+      "condition": "used",
+      "price": 22850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2020 for salein Mission",
+      "vin": "KMHD84LF3LU101916",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/c3b39f6f70b8.html",
+      "condition": "used",
+      "price": 19888.0,
       "price_currency": "CAD"
     },
     {
@@ -324,11 +364,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Santa Cruz 2024 for salein Mission",
+      "vin": "5NTJEDAF8RH086031",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/37fbfbd76ba8.html",
+      "condition": "used",
+      "price": 40888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lexus ES 2024 for salein Mission",
       "vin": "58AB21B14RU014783",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/ca1ad35d4601.html",
       "condition": "used",
       "price": 50888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2024 for salein Mission",
+      "vin": "7MMVABCM0RN215813",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/f9055b64af6b.html",
+      "condition": "used",
+      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
@@ -340,11 +396,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Audi Q8 2025 for salein Mission",
+      "vin": "WA1DVBF12SD036325",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/26f5eb3f08e4.html",
+      "condition": "used",
+      "price": 66888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Corolla Cross 2025 for salein Mission",
       "vin": "7MUAAABG6SV143073",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/788e4c41ab29.html",
       "condition": "used",
       "price": 34888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Highlander 2025 for salein Mission",
+      "vin": "5TDKBRCHXSS665920",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/e25874fda6e6.html",
+      "condition": "used",
+      "price": 60888.0,
       "price_currency": "CAD"
     },
     {
@@ -441,17 +513,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Dodge RAM 3500 ",
-      "vin": "3D73Y3CL2AG124626",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/024e23e20756.html",
-      "year": 2010,
-      "make": "Dodge",
-      "model": "RAM 3500",
-      "condition": "used",
-      "price": 22888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 BMW 7 Series 750LI XDRIVE LEATHER | BLUETOOTH | SUNROOFin Mission",
       "vin": "WBAYF8C5XED142182",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/438128893667.html",
@@ -459,29 +520,7 @@
       "make": "BMW",
       "model": "7 Series",
       "condition": "used",
-      "price": 15888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 BMW 7 Series ",
-      "vin": "WBAYF8C5XED142182",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/962448d5ec06.html",
-      "year": 2014,
-      "make": "BMW",
-      "model": "7 Series",
-      "condition": "used",
-      "price": 15888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Cadillac Ats ",
-      "vin": "1G6AH5RX7E0190884",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/cb9e4d5e555c.html",
-      "year": 2014,
-      "make": "Cadillac",
-      "model": "Ats",
-      "condition": "used",
-      "price": 14888.0,
+      "price": 13888.0,
       "price_currency": "CAD"
     },
     {
@@ -917,17 +956,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 ",
-      "vin": "1C6SRFHT8KN889725",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/38cb7002423a.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 44988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Toyota Camry LE LEATHER | SUNROOFin Mission",
       "vin": "4T1B11HK8KU750349",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7841dd7e6b1c.html",
@@ -961,17 +989,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Dodge Grand Caravan ",
-      "vin": "2C4RDGCGXLR227154",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/da7c7a8837e1.html",
-      "year": 2020,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 22888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Ford Escape ",
       "vin": "1FMCU9H67LUA03016",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/f35b35702b16.html",
@@ -980,6 +997,17 @@
       "model": "Escape",
       "condition": "used",
       "price": 16800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Hyundai Elantra Preferred w/Sun & Safety Package IVT - $141 B/Win Mission",
+      "vin": "KMHD84LF3LU101916",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/84c666537ad2.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 19888.0,
       "price_currency": "CAD"
     },
     {
@@ -1176,17 +1204,6 @@
       "model": "Malibu",
       "condition": "used",
       "price": 24999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Spark ",
-      "vin": "KL8CB6SA3NC018507",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7580d4c7acd6.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Spark",
-      "condition": "used",
-      "price": 18888.0,
       "price_currency": "CAD"
     },
     {
@@ -1455,17 +1472,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota GR Supra ",
-      "vin": "WZ1DBOGO3PW055259",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/fe4ad327ea1c.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "GR Supra",
-      "condition": "used",
-      "price": 62888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Toyota Tacoma ",
       "vin": "3TYCZ5AN0PT157064",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/15dd59ac1d08.html",
@@ -1569,28 +1575,6 @@
       "model": "F-350",
       "condition": "used",
       "price": 69800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona ",
-      "vin": "KM8HBCAB3RU093046",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/651b6db73338.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 26888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Cruz ",
-      "vin": "5NTJEDAF8RH086031",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/37fbfbd76ba8.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Cruz",
-      "condition": "used",
-      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -1704,17 +1688,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABCM0RN215813",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/f9055b64af6b.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 36888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mazda3 GXX - Heated Seats - Apple CarPlayin Mission",
       "vin": "JM1BPABM9R1651323",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0336c79bf1c1.html",
@@ -1722,7 +1695,7 @@
       "make": "Mazda3",
       "model": "GXX - Heated Seats - Apple CarPlayin Mission",
       "condition": "used",
-      "price": 25888.0,
+      "price": 22888.0,
       "price_currency": "CAD"
     },
     {
@@ -1990,17 +1963,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Audi Q8 ",
-      "vin": "WA1DVBF12SD036325",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/26f5eb3f08e4.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q8",
-      "condition": "used",
-      "price": 64888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi Q3 ",
       "vin": "WA1EECF38S1078768",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/77337d7b6b94.html",
@@ -2031,17 +1993,6 @@
       "model": "3 Series",
       "condition": "used",
       "price": 45888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Silverado 1500 ",
-      "vin": "2GCUKDED5S1199519",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/7f30bc37b997.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 47888.0,
       "price_currency": "CAD"
     },
     {
@@ -2359,17 +2310,6 @@
       "model": "Corolla",
       "condition": "used",
       "price": 30555.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota Highlander ",
-      "vin": "5TDKBRCHXSS665920",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/e25874fda6e6.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 58888.0,
       "price_currency": "CAD"
     },
     {
