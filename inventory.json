@@ -1,6 +1,6 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-18T02:21:45",
+  "generated_at": "2026-11-18T02:26:00",
   "vehicle_count": 350,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -472,6 +472,22 @@
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/2d8cda89eeef.html",
       "condition": "new",
       "price": 72980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Fiat 500e 2026 for salein Mission",
+      "vin": "ZFAFFAB45TX283450",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e6d1b2361212.html",
+      "condition": "new",
+      "price": 34290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Mission",
+      "vin": "3C4PJMB25TT217049",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ef24ae641e43.html",
+      "condition": "new",
+      "price": 47390.0,
       "price_currency": "CAD"
     },
     {
@@ -2475,91 +2491,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $206 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $206 B/Win Mission",
       "vin": "ZFAFFAB45TX283450",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ef559f9feb31.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $206 B/Win Mission",
+      "model": "500e Pop - Navigation - $206 B/Win Mission",
       "condition": "new",
       "price": 34290.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e ICONA - $228 B/Win Mission",
+      "name": "New 2026 Fiat 500e Icona - Navigation - $228 B/Win Mission",
       "vin": "ZFAFFAC47TX284792",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/f31bf9f92736.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e ICONA - $228 B/Win Mission",
+      "model": "500e Icona - Navigation - $228 B/Win Mission",
       "condition": "new",
       "price": 37985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e ICONA - $234 B/Win Mission",
+      "name": "New 2026 Fiat 500e Icona - Navigation - $234 B/Win Mission",
       "vin": "ZFAFFAC49TX282168",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/d41a0bd39767.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e ICONA - $234 B/Win Mission",
+      "model": "500e Icona - Navigation - $234 B/Win Mission",
       "condition": "new",
       "price": 38980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB45TX283027",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/20726b6b21e0.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB47TX296782",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/637650adfb2d.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB49TX284813",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8e43ce129b9f.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Fiat 500e POP - $210 B/Win Mission",
+      "name": "New 2026 Fiat 500e Pop - Navigation - $210 B/Win Mission",
       "vin": "ZFAFFAB43TX293605",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6eafd073e987.html",
       "year": 2026,
       "make": "Fiat",
-      "model": "500e POP - $210 B/Win Mission",
+      "model": "500e Pop - Navigation - $210 B/Win Mission",
       "condition": "new",
       "price": 34985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Fiat 500e ",
-      "vin": "ZFAFFAB45TX283450",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e6d1b2361212.html",
-      "year": 2026,
-      "make": "Fiat",
-      "model": "500e",
-      "condition": "new",
-      "price": 34290.0,
       "price_currency": "CAD"
     },
     {
@@ -2834,17 +2839,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMA23TT236829",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/ef24ae641e43.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 42885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass Sport - $215 B/Win Mission",
       "vin": "3C4NJDAN9TT168084",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5736e14660c2.html",
@@ -2856,7 +2850,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN5TT184944",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/be952dbbf34e.html",
       "year": 2026,
@@ -2878,7 +2872,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
+      "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN8TT181407",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/dc103b63a0f7.html",
       "year": 2026,
@@ -2889,14 +2883,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof - $262 B/Win Mission",
+      "name": "2026 Jeep Compass North North 4x4 Heated Sunroof demoin Mission",
       "vin": "3C4NJDBN9TT181402",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8a869a92557f.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass",
+      "model": "Compass North North 4x4 Heated Sunroof demoin Mission",
       "condition": "new",
-      "price": 42185.0,
+      "price": 48185.0,
       "price_currency": "CAD"
     },
     {
