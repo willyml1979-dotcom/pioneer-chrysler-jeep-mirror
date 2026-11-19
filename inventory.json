@@ -1,6 +1,6 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-18T11:20:41",
+  "generated_at": "2026-11-18T21:47:19",
   "vehicle_count": 346,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -180,6 +180,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "BMW X3 2018 for salein Mission",
+      "vin": "5UXTR9C54JLC83180",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0c4e35dd78ce.html",
+      "condition": "used",
+      "price": 17888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X6 2018 for salein Mission",
+      "vin": "5UXKU2C50J0Z60998",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/74ad7943b4f8.html",
+      "condition": "used",
+      "price": 24888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Camaro 2018 for salein Mission",
+      "vin": "1G1FB3DS3J0125974",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/1e658dafa9ce.html",
+      "condition": "used",
+      "price": 23888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Cruze 2018 for salein Mission",
       "vin": "1G1BE5SM4J7217754",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/fa1718084a46.html",
@@ -194,11 +218,43 @@
       "condition": "used"
     },
     {
+      "name": "Honda Civic 2018 for salein Mission",
+      "vin": "2HGFC2F65JH009509",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/2e606863fddc.html",
+      "condition": "used",
+      "price": 16888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra 2018 for salein Mission",
       "vin": "KMHD84LF2JU521017",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/649e9834f6c0.html",
       "condition": "used",
       "price": 15888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2018 for salein Mission",
+      "vin": "1C4RJFBG9JC243355",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/06b1801d339c.html",
+      "condition": "used",
+      "price": 21888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2018 for salein Mission",
+      "vin": "KNDPMCAC4J7304096",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/84e72dc5d6d4.html",
+      "condition": "used",
+      "price": 14850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Maserati Granturismo 2018 for salein Mission",
+      "vin": "ZAM45VMA0J0288568",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/681acc65ba8b.html",
+      "condition": "used",
+      "price": 58888.0,
       "price_currency": "CAD"
     },
     {
@@ -243,6 +299,22 @@
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/98211775b6eb.html",
       "condition": "used",
       "price": 31888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Blazer 2019 for salein Mission",
+      "vin": "3GNKBCRSXKS694840",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/25ef9e0dc08e.html",
+      "condition": "used",
+      "price": 24888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2019 for salein Mission",
+      "vin": "1FTFW1E44KKD53715",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/bf77ca3f9682.html",
+      "condition": "used",
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -714,42 +786,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 BMW X3 ",
-      "vin": "5UXTR9C54JLC83180",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0c4e35dd78ce.html",
-      "year": 2018,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 17888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 BMW X6 ",
-      "vin": "5UXKU2C50J0Z60998",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/74ad7943b4f8.html",
-      "year": 2018,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "used",
-      "price": 21888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Chevrolet Camaro LT V6 | CONVERTIBLE | CARPLAYin Mission",
       "vin": "1G1FB3DS3J0125974",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/9ce0e9f1f57e.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "condition": "used",
-      "price": 23888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Camaro ",
-      "vin": "1G1FB3DS3J0125974",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/1e658dafa9ce.html",
       "year": 2018,
       "make": "Chevrolet",
       "model": "Camaro",
@@ -778,17 +817,6 @@
       "condition": "used"
     },
     {
-      "name": "2018 Honda Civic ",
-      "vin": "2HGFC2F65JH009509",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/2e606863fddc.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 16888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Grand Cherokee Limited Uconnect 4 with 7?inch display!in Mission",
       "vin": "1C4RJFBG9JC243355",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/bfc6ea36a191.html",
@@ -800,47 +828,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Grand Cherokee ",
-      "vin": "1C4RJFBG9JC243355",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/06b1801d339c.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 21888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Sportage LX AWD - Heated Seats - $121 B/Win Mission",
+      "name": "2018 Kia Sportage LX AWD - Heated Seats - $107 B/Win Mission",
       "vin": "KNDPMCAC4J7304096",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/0a9112f415d9.html",
       "year": 2018,
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 16888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Sportage ",
-      "vin": "KNDPMCAC4J7304096",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/84e72dc5d6d4.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 16888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Maserati Granturismo ",
-      "vin": "ZAM45VMA0J0288568",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/681acc65ba8b.html",
-      "year": 2018,
-      "make": "Maserati",
-      "model": "Granturismo",
-      "condition": "used",
-      "price": 56888.0,
+      "price": 14850.0,
       "price_currency": "CAD"
     },
     {
@@ -894,28 +889,6 @@
       "model": "Blazer",
       "condition": "used",
       "price": 24888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Chevrolet Blazer ",
-      "vin": "3GNKBCRSXKS694840",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/25ef9e0dc08e.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "used",
-      "price": 24888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150 ",
-      "vin": "1FTFW1E44KKD53715",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/used/bf77ca3f9682.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 22800.0,
       "price_currency": "CAD"
     },
     {
