@@ -1,7 +1,7 @@
 {
   "dealership": "Pioneer Chrysler Jeep",
-  "generated_at": "2026-11-18T21:47:19",
-  "vehicle_count": 346,
+  "generated_at": "2026-11-18T21:50:31",
+  "vehicle_count": 342,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -651,11 +651,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Compass 2026 for salein Mission",
+      "vin": "3C4NJDBN8TT181407",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/025a22b78eac.html",
+      "condition": "new",
+      "price": 42680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2026 for salein Mission",
+      "vin": "1C6PJTAG0TL151746",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/0bcca6c955b9.html",
+      "condition": "new",
+      "price": 54385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2026 for salein Mission",
+      "vin": "1C4RJHAG4TC317247",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/70e627778a26.html",
+      "condition": "new",
+      "price": 58390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2026 for salein Mission",
+      "vin": "1C4PJXAN1TW334540",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/2e75e14ade1a.html",
+      "condition": "new",
+      "price": 46585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Mission",
+      "vin": "3C6SRFVP6T4176521",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/19de90139924.html",
+      "condition": "new",
+      "price": 61740.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Mission",
+      "vin": "3C63R3CL0TG246094",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e1a7136f5f81.html",
+      "condition": "new",
+      "price": 85715.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Grand Caravan 2027 for salein Mission",
+      "vin": "2C4RC1ZG0VR555015",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/9d323765f145.html",
+      "condition": "new",
+      "price": 50490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2027 for salein Mission",
+      "vin": "2C4RC3BG1VR622341",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/83caa24c0fdf.html",
+      "condition": "new",
+      "price": 57995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Dodge Durango 2027 for salein Mission",
       "vin": "1C4RDJDG1VC587727",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/4fcaef5fb59c.html",
       "condition": "new",
       "price": 70225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2027 for salein Mission",
+      "vin": "3C6RRFGG4V4502623",
+      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8dcdf38371d4.html",
+      "condition": "new",
+      "price": 64285.0,
       "price_currency": "CAD"
     },
     {
@@ -1234,15 +1306,6 @@
       "name": "New 2023 Dodge Durango R/T - Navigation - Apple CarPlayin Mission",
       "vin": "1C4SDJCT6PC567685",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/f412b80dd55b.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new"
-    },
-    {
-      "name": "2023 Dodge Durango ",
-      "vin": "1C4SDJCT6PC567685",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5a3a948ccf1c.html",
       "year": 2023,
       "make": "Dodge",
       "model": "Durango",
@@ -2814,17 +2877,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN3TT189012",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5b4fcdfe6180.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43875.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN9TT184946",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/3f5c8bd55176.html",
@@ -2913,17 +2965,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North - Sunroof -in Mission",
-      "vin": "3C4NJDBN3TT212840",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/63772912063d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45430.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Compass North - Sunroof -in Mission",
       "vin": "3C4NJDBN2TT226065",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6e5a5438b112.html",
@@ -2947,17 +2988,6 @@
     },
     {
       "name": "2026 Jeep Compass Sport - Heated Seats - LED Lights - $215 B/Win Mission",
-      "vin": "3C4NJDAN3TT189108",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/6919a411f53f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport - Heated Seats - LED Lights - $215 B/Win Mission",
       "vin": "3C4NJDAN8TT216626",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/5130a02dbed9.html",
       "year": 2026,
@@ -2965,39 +2995,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDAN3TT189108",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/025a22b78eac.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator ",
-      "vin": "1C6PJTAG0TL151746",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/0bcca6c955b9.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 54385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAG4TC317247",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/70e627778a26.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 58390.0,
       "price_currency": "CAD"
     },
     {
@@ -3050,17 +3047,6 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXAN1TW334540",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/2e75e14ade1a.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 46585.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -3123,28 +3109,6 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 ",
-      "vin": "3C6RRFGG8T4161661",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/19de90139924.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 61045.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3CL0TG246094",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/e1a7136f5f81.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 85715.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3260,28 +3224,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Grand Caravan ",
-      "vin": "2C4RC1ZG0VR555015",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/9d323765f145.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 50490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC3BG1VR622341",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/83caa24c0fdf.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 57995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Dodge Chargerin Mission",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/023671ce05b9.html",
       "year": 2027,
@@ -3385,17 +3327,6 @@
       "name": "2027 RAM 1500 ",
       "vin": "3C6RRFGG4V4502623",
       "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/f0fd83a0847d.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 67285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 ",
-      "vin": "3C6RRFGG4V4502623",
-      "url": "https://willyml1979-dotcom.github.io/pioneer-chrysler-jeep-mirror/new/8dcdf38371d4.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
